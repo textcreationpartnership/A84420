@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of John Emmerton of the Middle-Temple, Gent.</title>
+            <author>Emmerton, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84420</idno>
+            <idno type="STC">Wing E713B</idno>
+            <idno type="STC">ESTC R174971</idno>
+            <idno type="EEBO-CITATION">45578342</idno>
+            <idno type="OCLC">ocm 45578342</idno>
+            <idno type="VID">172271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2623:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of John Emmerton of the Middle-Temple, Gent.</title>
+                  <author>Emmerton, John.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Emmerton, John.</term>
+               <term>Marriage law --  Great Britain --  Early works to 1800.</term>
+               <term>Actions and defenses --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172271:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>THE CASE OF John Emmerton OF THE MIDDLE-TEMPLE, Gent.</head>
+            <p>THat the ſaid Mr. <hi>Emmerton</hi> and Mrs. <hi>Bridget Hyde,</hi> Daughter and Heir of Sir <hi>Thomas Hyde</hi> Baronet de<g ref="char:EOLhyphen"/>ceaſed, by Dame <hi>Mary</hi> his Wife (who was after<g ref="char:EOLhyphen"/>wards the Wife of Sir <hi>Robert Vyner,</hi> and now alſo De<g ref="char:EOLhyphen"/>ceaſed) were upon the firſt day of <hi>October</hi> 1674.<note place="margin">To prove the Mar<g ref="char:EOLhyphen"/>riage 4 Witneſſes. To the Lady <hi>Vyners</hi> conſent 6 Witneſſes and her Letter. To Mrs. <hi>Hydes</hi> con<g ref="char:EOLhyphen"/>ſent 14 Witneſſes. To Sir <hi>Thomas Hydes</hi> intention 3 Witn.</note> Lawfully Marri<g ref="char:EOLhyphen"/>ed together by one Mr. <hi>Brandley</hi> a Miniſter in Holy Orders, by and with the Free Conſent and Direction of the ſaid Lady <hi>Vyner,</hi> and at the Earneſt deſire of the ſaid Mrs. <hi>Bridget,</hi> and according to the full intentions of her ſaid Father Sir <hi>Thomas Hyde,</hi> all which the ſaid <hi>Bridget,</hi> hath ſince frequently declared and ac<g ref="char:EOLhyphen"/>knowledged.</p>
+            <p>That the ſaid Sir <hi>Robert Vyner</hi> was informed of the ſaid Mar<g ref="char:EOLhyphen"/>riage upon the third of <hi>January</hi> 1674. and did then declare he was ſatisfied with the Reality of it. Yet he ſaid,<note place="margin">To this 3 Witneſſes.</note> for other peo<g ref="char:EOLhyphen"/>ples ſatisfaction he would have ſome of the Witneſſes that were preſent at the Solemnity come up to <hi>London</hi> and make Oath of it.</p>
+            <p>That Mr. <hi>Edlyn</hi> and Mr. <hi>Brandly</hi> (two of Mr. <hi>Emmerton</hi>'s principal Witneſſes did accordingly come up upon the Eleventh
+<pb n="2" facs="tcp:172271:2"/>
+               <!-- PDF PAGE 26 -->of <hi>January</hi> 1674.<note place="margin">To this 4 Witneſſes.</note> in <hi>Barkhamſteed</hi> Coach, and nigh the end of <hi>Grayes</hi>-Inn Lane, the ſaid Coach was beſet by about Ten armed men, among whom was one <hi>Chriſtian</hi> (then ſervant to the Earl of <hi>Danby</hi>) which ſaid Company violently pull'd the ſaid Mr. <hi>Brand<g ref="char:EOLhyphen"/>ley</hi> out of the Coach, (pretending a Warrant from Sir <hi>Joſeph Williamſon</hi> then Secretary of State) and Mr. <hi>Brandley</hi> then de<g ref="char:EOLhyphen"/>ſiring a friend might go with him, one of the ſaid Company Swore, that if any one ſtirred or offered to follow, he would Piſtol him;<note place="margin">To this 1 Witneſs and Circumſtances.</note> and ſo they forcibly carried the ſaid Mr. <hi>Brandley</hi> away, and tempted him with promiſes of 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> (preſſing 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> upon him) and terrifying him with threats of Ruining and Piſtoling him, to force him to deny that he had Married the ſaid Mr. <hi>John Emmerton</hi> to the ſaid Mrs. <hi>Bridget Hyde.</hi>
+            </p>
+            <p>That Mr. <hi>Brandley</hi> having never been in <hi>London</hi> before, and being thus threatned in a ſtrange place, and fearing leſt he ſhould be Kill'd if he did not comply with them, did, when he was carried late that night before the King at <hi>White-Hall,</hi> and there Examined, Prevaricate in his Teſtimony concerning the ſaid Marriage, the Earl of <hi>Danby,</hi> Sir <hi>Joſeph Williamſon</hi> and Sir <hi>Robert Vyner</hi> being then preſent: after which Examination Mr. <hi>Brandley</hi> was Committed to the Cuſtody of one <hi>Copley</hi> a Meſſenger, and by him detained ſome dayes.</p>
+            <p>That Mr. <hi>Brandley</hi> being troubled in Conſcience for what he had been forced to do,<note place="margin">To this 4 Witneſſes.</note> did get leave of the ſaid Meſſenger to go out, and did then of his own accord go to Sir <hi>Robert Vyner,</hi> and confeſs he had Married the ſaid Mr. <hi>Emmerton</hi> to the ſaid Mrs. <hi>Hyde,</hi> and begged his pardon for ſo doing, and threw down the 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> (that had been forced upon him) bidding Sir <hi>Robert Vyner</hi> take it, for he could not in Conſcience keep it.</p>
+            <p>That after the ſaid practices upon Mr. <hi>Brandley,</hi> Mr. <hi>Emmer<g ref="char:EOLhyphen"/>ton</hi>'s Wife was taken from all his Relations, and put into the hands of Strangers;<note place="margin">To this 10. Wit<g ref="char:EOLhyphen"/>neſſes.</note> who kept her ſo, that Mr. <hi>Emmerton</hi> could not ſpeak with her ſince the death of her Mother the Lady <hi>Vy<g ref="char:EOLhyphen"/>ner</hi> to this day; and who by threats, promiſes and perſwaſions, and all other undue means, have endeavoured to divert her affe<g ref="char:EOLhyphen"/>ctions from her ſaid Husband Mr. <hi>Emmerton.</hi>
+            </p>
+            <p>That the Lord Chief Juſtice <hi>Hale</hi> upon the Examination of the evil practices aforeſaid,<note place="margin">The Records and 4 Witneſſes.</note> did think fit to order a Tryal at Law at the <hi>King</hi>'s <hi>Bench</hi> Barr in <hi>Eaſter</hi> Term 1675. where the only point in Iſſue was, Whether Mr. <hi>Emmerton</hi> was Lawfully Mar<g ref="char:EOLhyphen"/>ried to Mrs. <hi>Bridget Hyde</hi> or not, and the Jury were ſo well ſa<g ref="char:EOLhyphen"/>tisfied of the Strength and Validity of the Proofs and Evidence, that they gave a Verdict for the Marriage without going from the Bar, with the approbation of the ſaid Court.</p>
+            <p>
+               <note place="margin">Proved by the acts of that Court.</note>That Mr. <hi>Emmerton</hi> having Exhibited a Libel in the <hi>Archies</hi> Court of <hi>Canterbury</hi> the ſecond of <hi>March</hi> 1674. for the Re<g ref="char:EOLhyphen"/>covering
+<pb n="3" facs="tcp:172271:2"/>
+               <!-- PDF PAGE 26 -->of his ſaid Wife, the Judge of the ſaid Court did de<g ref="char:EOLhyphen"/>clare (by Colour of an obſolete Canon) that his Witneſſes that were at the Marriage were Excommunicated (<hi>ipſo facto</hi>) for being at a Clandeſtine Marriage; and ſo put Mr. <hi>Emmer<g ref="char:EOLhyphen"/>ton</hi> to many long Debates, to great Charges and trouble be<g ref="char:EOLhyphen"/>fore they could be Reſtored and abſolved <hi>ad teſtificandum</hi> only: but as for Mr. <hi>Emmerton</hi>'s Father and Mother (after four Termes Debate) the ſaid Judge did utterly Refuſe to abſolve or admit them to be Witneſſes at all in the ſaid Cauſe: againſt which unjuſt and unlawful Sentence Mr. <hi>Emmerton</hi> Appealed to the <hi>Delegates;</hi> But they unjuſtly and Illegaly did Confirm the aforeſaid Sentence, tho' Mr. <hi>Emmerton</hi>'s Council did pray that his Father and Mother might be only examined (<hi>de bene eſſe</hi>) and to be believed as they ſhould ſee Cauſe, and as they agreed or Conteſted with other Witneſſes when the Examina<g ref="char:EOLhyphen"/>tions ſhould be publiſhed.</p>
+            <p>That ſince the ſaid Sentence, the ſaid Mr. <hi>Emmerton</hi>'s Fa<g ref="char:EOLhyphen"/>ther is Dead, and his Mother is very Sickly and Antient,<note place="margin">Proved by 4 Wit<g ref="char:EOLhyphen"/>neſſeſs.</note> ſo that by the ſaid Sentence he hath utterly loſt the Teſtimony of his Father, and will in all Probability loſe the Teſtimony of his Mother (if he ſhould have further occaſion to uſe her) who both of them were the moſt Material Witneſſes, not on<g ref="char:EOLhyphen"/>ly to prove the ſaid Marriage, but alſo the Lady <hi>Vyner</hi>'s deſire and conſent to and for the ſaid Marriage.</p>
+            <p>That the ſaid Judges <hi>Delegates</hi> did Retaine the ſaid Cauſe before them till the 12<hi rend="sup">th</hi> day of <hi>July</hi> 1680. at which time it was finally heard.<note place="margin">Proved by the acts of Court.</note> And altho' Mr. <hi>Emmerton</hi> loſt the Teſti<g ref="char:EOLhyphen"/>mony of his Father and Mother, and many of the moſt Ma<g ref="char:EOLhyphen"/>terial Articles of his Allegations were rejected, and all his Kindred admitted to Teſtifie only <hi>Sub omnibus Limitationibus,</hi> and the many other hardſhips were put upon him; yet he made ſo Clear a proof of his ſaid Marriage, that the ſaid Judges <hi>Delegates</hi> did give a Sentence for the ſame.</p>
+            <p>That notwithſtanding the Verdict at Law and Judgement, Execution and Poſſeſſion thereupon had, yet the Lord High Chancellor of <hi>England</hi> upon a Bill filed in that Court by the ſaid Mrs. <hi>Briget</hi> without over-ruling Mr. <hi>Emmerton</hi>'s Plea thereunto (which he doth ſtill refuſe to hear) did order the Rents of the Eſtate in Queſtion in the ſaid Suite,<note place="margin">Proved by the Or<g ref="char:EOLhyphen"/>ders of that Court.</note> to remaine in the Tenants hands till a Sentence ſhould be given before the <hi>Delegates:</hi> And ſince the ſaid Sentence, his Lordſhip hath ordered the ſaid Rents in Arrears to be brought into Court, declaring that he will allow the ſaid Mrs. <hi>Bridget</hi> 1000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Anum</hi> (which is half the yearly Revenue) during the Dependance of a Com<g ref="char:EOLhyphen"/>miſſion of Review which hath been granted her after almoſt ſix about 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſo that Mr. <hi>Emmerton</hi> can have no fruit of his ſaid Verdict at Law, or ſaid Sentence.</p>
+            <pb n="4" facs="tcp:172271:3"/>
+            <!-- PDF PAGE 27 -->
+            <p>That altho' ſhe was obliged to plead all new matter upon her Commiſſion of Review,<note place="margin">Proved by the acts of the ſaid Court.</note> and prove all by the 26th of <hi>October</hi> 1680. yet ſhe did not Exhibit any Allegation till the 9<hi rend="sup">th</hi> of this Inſtant <hi>November:</hi> and altho' the Allegation conſiſted of ſuch matter as ought not to be admitted by Law, yet the Biſhops and Civilians Impowred by the ſaid Commiſſion of Review then preſent, did admit it all, and gave her further time to prove <hi>(viz.)</hi> to the Firſt day of next Term.</p>
+            <p>So that by theſe tedious delays (not knowing but this Suit may laſt ſome years longer) and by theſe vaſt expences Mr. <hi>Emmerton</hi> is put to, having ſpent about 6000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in this Suit, and being debarr'd from Receiving any Rents and pro<g ref="char:EOLhyphen"/>fits of the premiſes by the Lord Chancellors order as aforeſaid, by ſuch like unjuſt and unreaſonable doings Mr. <hi>Emmerton</hi> is like to be utterly undone and Ruined.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
